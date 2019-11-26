@@ -1,15 +1,21 @@
 
 
-<h1 align="center" style="border-bottom: none;">Leantime</h1>
+<h1 align="left" style="border-bottom: none;">Leantime</h1>
 
-is a project management application built for small  teams and statups. 
-It povides a very intuitive user interface, helping users with different project task.
+Leantime is a project management application built for small  teams and statups. 
+It povides a very intuitive user interface, helping users with different tasks.
+
+
+Features:
+
 
 * Project dashboards
 * Task management using Kanban boards, list and calendar views
 * Milestone management using Gantt charts
 * Idea boards  
 * Timesheet management
+* Multiple user roles (client, developer, manager, admin)
+* Integrations with Mattermost & Slack
 
 ### Dependencies ###
 
