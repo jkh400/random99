@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS leantime;
+GRANT ALL PRIVILEGES ON leantime.* To 'admin'@'%';

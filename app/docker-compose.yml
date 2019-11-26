@@ -1,0 +1,53 @@
+version: '3.7'
+
+services:
+
+  app:
+    build:
+      context: ./php-fpm
+      dockerfile: Dockerfile
+    container_name: "leantime"
+    image: leantime/leantime
+    restart: always
+    working_dir: /app
+    environment:
+      - DB_HOST
+      - MYSQL_DATABASE
+      - MYSQL_PASSWORD
+      - MYSQL_USER
+    volumes:
+      - app_data:/app
+    networks:
+      - net
+
+  mysql:
+    container_name: "mysql"
+    image: mysql:5.6
+    environment:
+      - MYSQL_DATABASE
+      - MYSQL_PASSWORD
+      - MYSQL_ROOT_PASSWORD
+      - MYSQL_USER
+    volumes:
+      - db:/var/lib/mysql
+      - ./mysql/mysql.sql:/docker-entrypoint-initdb.d/mysql.sql
+    ports:
+      - "3306:3306"
+    networks:
+      - net
+
+  apache:
+    image: bitnami/apache:latest
+    ports:
+      - "80:8080"
+    volumes:
+      - ./apache/conf.d/app.conf:/vhosts/app.conf:ro
+      - app_data:/app
+    networks:
+      - net
+
+networks:
+  net:
+volumes:
+  db:
+  app_data:
