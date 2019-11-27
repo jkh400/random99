@@ -35,4 +35,6 @@ Once deploy, you c
 
 ### Arquitecture ###
 
+<p align="center">
 ![watsonapi](https://i.ibb.co/2MNDXRg/Arquitecture.png)
+</p>
