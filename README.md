@@ -33,4 +33,4 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 ### Arquitecture ###
 
-![watsonapi](https://github.com/Prabhleen9Kaur/marist-mscs621-prabhleen/blob/master/readme_images/watsonapi.JPG?raw=true)
+![watsonapi](https://i.ibb.co/2MNDXRg/Arquitecture.png)
