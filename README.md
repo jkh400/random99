@@ -28,8 +28,10 @@ It povides a very intuitive user interface, helping users with different tasks.
 - docker-compose up -d
 
 
+
 ### Configuring the Application ###
 
+Once deploy, you c
 
 ### Arquitecture ###
 
