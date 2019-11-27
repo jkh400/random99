@@ -32,5 +32,5 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 
 ### Arquitecture ###
-<h1 align="center" style="border-bottom: none;">
-(https://github.com/Prabhleen9Kaur/marist-mscs621-prabhleen/blob/master/readme_images/app%20demo.gif?raw=true)</h1>
+
+![watsonapi](https://github.com/Prabhleen9Kaur/marist-mscs621-prabhleen/blob/master/readme_images/watsonapi.JPG?raw=true)
