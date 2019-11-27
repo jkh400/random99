@@ -2,11 +2,11 @@
 
 <h1 align="left" style="border-bottom: none;">Leantime</h1>
 
-Leantime is a project management application built for small  teams and statups. 
+Leantime is a project management application built for small  teams and startups. 
 It povides a very intuitive user interface, helping users with different tasks.
 
 
-Features:
+## Features: ##
 
 
 * Project dashboards
@@ -32,4 +32,5 @@ Features:
 
 
 ### Arquitecture ###
-
+<h1 align="center" style="border-bottom: none;">
+(https://github.com/Prabhleen9Kaur/marist-mscs621-prabhleen/blob/master/readme_images/app%20demo.gif?raw=true)</h1>
