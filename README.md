@@ -40,7 +40,13 @@ It povides a very intuitive user interface, that helps users with different kind
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
 
 
-- Fill out the requested information in the following image, and click on "Install"
+- To complete the installation process you will have to fill out the requested information, and click on "Install"
+
+	- Email Address
+	- Password
+	- First name
+	- Lastname
+	- Company 
 
 
 ![install1](https://i.ibb.co/hV1hvM0/install-1.png)
