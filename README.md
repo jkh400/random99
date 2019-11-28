@@ -25,6 +25,8 @@ It povides a very intuitive user interface, that helps users with different kind
 
 ### Docker Deployment ###
 
+- git pull the repository
+- cp .env.sample .env
 - Deploying the project (docker-compose up -d)
 
 ![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
@@ -42,8 +44,6 @@ It povides a very intuitive user interface, that helps users with different kind
 
 
 ### Configuring the Application ###
-
-- cp .env.sample .env
 
 
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
