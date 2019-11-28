@@ -58,7 +58,7 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center"><img src="https://i.ibb.co/gVd1bHn/install-2.png"></p>
 
 
-- You can now go to the main page: http://HOST_ADDRESS
+- You can now go to the main page: http://HOST_ADDRESS, and login into the system.
 
 <p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
 
