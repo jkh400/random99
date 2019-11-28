@@ -1,6 +1,6 @@
 
 
-<h1 align="left" style="border-bottom: none;">Leantime</h1>
+# Leantime
 
 Leantime is a project management application built for small  teams and startups. 
 It povides a very intuitive user interface, helping users with different tasks.
@@ -28,6 +28,10 @@ It povides a very intuitive user interface, helping users with different tasks.
 - docker-compose up -d
 
 ![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
+
+- Verify containers are running:
+
+
 
 ### Configuring the Application ###
 
