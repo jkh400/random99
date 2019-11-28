@@ -49,12 +49,18 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 	- Company 
 
 
+
 <p align="center"><img src="https://i.ibb.co/hV1hvM0/install-1.png"></p>
 
 - Once the process has finished you should be able to see a message like this.
+  This will confirm that the process ended successfully. 
 
 <p align="center"><img src="https://i.ibb.co/gVd1bHn/install-2.png"></p>
 
+
+- You can now go to the main page: http://HOST_ADDRESS
+
+<p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
 
 ### Arquitecture ###
 
