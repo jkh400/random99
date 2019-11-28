@@ -3,7 +3,7 @@
 # Leantime
 
 Leantime is a project management application built for small  teams and startups. 
-It povides a very intuitive user interface, helping users with different tasks.
+It povides a very intuitive user interface, that helps users with different kind of tasks and activities.
 
 
 ## Features: ##
@@ -31,7 +31,9 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 - Verifying containers are running (docker ps):
 
-![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
+<p align="left">
+  <img width="700" height="400" src="https://i.ibb.co/gmBtSRR/deploy-3.png">
+</p>
 
 
 ### Configuring the Application ###
@@ -39,6 +41,12 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
 
+
+- Fill out the requested information in the following image, and click on "Install"
+
+<p align="center">
+  <img width="700" height="400" src="https://i.ibb.co/hV1hvM0/install-1.png">
+</p>
 
 
 ### Arquitecture ###
