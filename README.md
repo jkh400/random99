@@ -28,7 +28,7 @@ It povides a very intuitive user interface, helping users with different tasks.
 - docker-compose up -d
 
 <p align="center">
-![watsonapi](https://i.ibb.co/r3yJ8Dk/deploy-1.png)
+
 </p>
 
 
