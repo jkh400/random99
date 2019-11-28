@@ -27,16 +27,11 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 - docker-compose up -d
 
-<p align="center">
-
-</p>
-
+![wdeploy](https://i.ibb.co/r3yJ8Dk/deploy-1.png)
 
 ### Configuring the Application ###
 
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
-
-
 
 
 
