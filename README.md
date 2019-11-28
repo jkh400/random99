@@ -42,6 +42,4 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 ### Arquitecture ###
 
-<p align="center">
-![watsonapi](https://i.ibb.co/2MNDXRg/Arquitecture.png)
-</p>
+<div style="text-align:center"><img src="https://i.ibb.co/2MNDXRg/Arquitecture.png" /></div>
