@@ -27,7 +27,7 @@ It povides a very intuitive user interface, that helps users with different kind
 
 - git pull the repository
 - cp .env.sample .env
-- Deploying the project (docker-compose up -d)
+- deploying the project (docker-compose up -d)
 
 ![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
 
@@ -74,6 +74,9 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
+# Demo
+
+See the demo at: http://leantimeapp.ddns.net
 
 # License
 
