@@ -34,6 +34,13 @@ It povides a very intuitive user interface, that helps users with different kind
 ![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
+### Arquitecture ###
+
+<p align="center">
+  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
+</p>
+
+
 ### Configuring the Application ###
 
 
@@ -62,10 +69,6 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 <p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
 
-### Arquitecture ###
 
-<p align="center">
-  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
-</p>
 
 
