@@ -43,6 +43,8 @@ It povides a very intuitive user interface, that helps users with different kind
 
 ### Configuring the Application ###
 
+- cp .env.sample .env
+
 
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
 
@@ -71,7 +73,7 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 # License
 
-  This sample code is licensed under Apache 2.0.
+  GNU GENERAL PUBLIC LICENSE
   Full license text is available in [LICENSE](LICENSE).
 
 
