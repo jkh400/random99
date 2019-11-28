@@ -49,8 +49,12 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 	- Company 
 
 
-
 ![install1](https://i.ibb.co/hV1hvM0/install-1.png)
+
+
+- Once the process has finished you should be able to see a message like this.
+
+![install2](https://i.ibb.co/gVd1bHn/install-2.png)
 
 
 ### Arquitecture ###
@@ -58,3 +62,5 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center">
   <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
 </p>
+
+
