@@ -25,12 +25,13 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 ### Docker Deployment ###
 
-- docker-compose up -d
+- Deploying the project (docker-compose up -d)
 
 ![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
 
-- Verify containers are running:
+- Verifying containers are running (docker ps):
 
+![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
 ### Configuring the Application ###
