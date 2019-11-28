@@ -36,10 +36,13 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 ### Configuring the Application ###
 
+
 Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with the installation procedure:
 
 
 
 ### Arquitecture ###
 
-<div style="text-align:center"><img src="https://i.ibb.co/2MNDXRg/Arquitecture.png" /></div>
+<p align="center">
+  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
+</p>
