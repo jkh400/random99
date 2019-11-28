@@ -42,9 +42,8 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 - Fill out the requested information in the following image, and click on "Install"
 
-<p align="left">
-  <img width="700" height="400" src="https://i.ibb.co/hV1hvM0/install-1.png">
-</p>
+
+![install1](https://i.ibb.co/hV1hvM0/install-1.png)
 
 
 ### Arquitecture ###
