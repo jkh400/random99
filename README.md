@@ -48,9 +48,7 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 	- Lastname
 	- Company 
 
-<pre>
-
-</pre>
+&nbsp;&nbsp;
 
 <p align="center"><img src="https://i.ibb.co/hV1hvM0/install-1.png"></p>
 
