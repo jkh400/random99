@@ -70,6 +70,10 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 - You can now go to the main page: http://HOST_ADDRESS, and login into the system.
 
 <p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
+&nbsp;
+
+<p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
+
 
 # License
 
