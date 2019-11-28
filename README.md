@@ -27,7 +27,7 @@ It povides a very intuitive user interface, helping users with different tasks.
 
 - docker-compose up -d
 
-![wdeploy](https://i.ibb.co/r3yJ8Dk/deploy-1.png)
+![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
 
 ### Configuring the Application ###
 
