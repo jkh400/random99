@@ -31,9 +31,7 @@ It povides a very intuitive user interface, that helps users with different kind
 
 - Verifying containers are running (docker ps):
 
-<p align="left">
-  <img width="700" height="400" src="https://i.ibb.co/gmBtSRR/deploy-3.png">
-</p>
+![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
 ### Configuring the Application ###
@@ -44,7 +42,7 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 - Fill out the requested information in the following image, and click on "Install"
 
-<p align="center">
+<p align="left">
   <img width="700" height="400" src="https://i.ibb.co/hV1hvM0/install-1.png">
 </p>
 
