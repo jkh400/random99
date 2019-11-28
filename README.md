@@ -69,6 +69,11 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 <p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
 
+# License
+
+  This sample code is licensed under Apache 2.0.
+  Full license text is available in [LICENSE](LICENSE).
+
 
 
 
