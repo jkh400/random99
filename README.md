@@ -3,7 +3,7 @@
 # Leantime
 
 Leantime is a project management application built for small  teams and startups. 
-It povides a very intuitive user interface, that helps users with different kind of tasks and activities.
+It povides a very intuitive user interface, that helps users with different kind of project management tasks and activities.
 
 
 ## Features: ##
@@ -74,9 +74,15 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
-# Demo
+
+# Demo Deployment (IBM Cloud)
 
 See the demo at: http://leantimeapp.ddns.net
+
+
+# External Deployment (AWS)
+
+See the deployment at: http://leantimeapp-aws.ddns.net/
 
 # License
 
