@@ -78,6 +78,9 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center"><img src="https://i.ibb.co/26THkq1/app1.png"></p>
 &nbsp;
 
+<p align="center"><img src="https://i.ibb.co/s69KCSm/app2.png"></p>
+&nbsp;
+
 
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
