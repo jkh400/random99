@@ -72,6 +72,12 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center"><img src="https://i.ibb.co/HHtgKKg/install-3.png"></p>
 &nbsp;
 
+- Once login into the system, you can access the main interface:
+
+<p align="center"><img src="https://i.ibb.co/26THkq1/app1.png"></p>
+&nbsp;
+
+
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
 
