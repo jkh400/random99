@@ -64,12 +64,12 @@ See the deployment at: http://leantimeapp-aws.ddns.net/
 
 ![cloudi1](https://i.ibb.co/7G8fRqf/1.png)
 
-- Select "Ubuntu Server 18.04" 
+- Select "Ubuntu Server 18.04" as Operating System.
 
 ![cloudi2](https://i.ibb.co/L5xZNwD/2.png)
 
 
-- Choose instance type and Click on "Review and Launch"
+- Choose the instance type and Click on "Review and Launch"
 
 ![cloudi3](https://i.ibb.co/dgpFYR9/3.png)
 
@@ -77,6 +77,21 @@ See the deployment at: http://leantimeapp-aws.ddns.net/
 - Check the instance status
 
 ![cloudi4](https://i.ibb.co/ctkH1zD/4.png)
+
+
+
+### Login with SSH into the server and follow the next steps:
+
+
+- git pull the repository
+- cp .env.sample .env
+- deploying the project (docker-compose up -d)
+
+![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
+
+- Verifying containers are running (docker ps):
+
+![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
 ### Configuring the Application ###
@@ -126,23 +141,6 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center">
   <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
 </p>
-
-
-
-### Login with SSH into the server and follow the next steps:
-
-
-- git pull the repository
-- cp .env.sample .env
-- deploying the project (docker-compose up -d)
-
-![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
-
-- Verifying containers are running (docker ps):
-
-![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
-
-
 
 
 

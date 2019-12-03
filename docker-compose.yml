@@ -7,8 +7,8 @@ services:
       context: ./app/php-fpm
       dockerfile: Dockerfile
     container_name: "leantime"
-    image: leantime/leantime
-    restart: always
+    image: mamunmscs/leantime
+    restart: unless-stopped
     working_dir: /app
     environment:
       - DB_HOST
