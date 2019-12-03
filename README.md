@@ -6,7 +6,7 @@ Leantime is a project management application built for small  teams and startups
 It povides a very intuitive user interface, that helps users with different kind of project management tasks and activities.
 
 
-## Features: ##
+# Features: #
 
 
 * Project dashboards
@@ -17,13 +17,13 @@ It povides a very intuitive user interface, that helps users with different kind
 * Multiple user roles (client, developer, manager, admin)
 * Integrations with Mattermost & Slack
 
-### Dependencies ###
+# Dependencies #
 
 - Ubuntu 18.04 / Windows 10 Pro (Any other O.S  that is supported by Docker)
 - Docker
 - Docker Compose
 
-### Docker Deployment ###
+# Docker Deployment #
 
 - In the Dashboard select the option, “Create Resource”
 
@@ -49,7 +49,7 @@ It povides a very intuitive user interface, that helps users with different kind
 
 &nbsp;
 
-# Login with SSH into the server and follow the next steps:
+### Login with SSH into the server and follow the next steps:
 
 
 - git pull the repository
@@ -63,7 +63,7 @@ It povides a very intuitive user interface, that helps users with different kind
 ![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
-### Arquitecture ###
+# Arquitecture #
 
 <p align="center">
   <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
