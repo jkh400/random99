@@ -23,7 +23,9 @@ It povides a very intuitive user interface, that helps users with different kind
 - Docker
 - Docker Compose
 
-# Docker Deployment #
+# Deployment (IBM)
+
+  See the demo at: http://leantimeapp.ddns.net
 
 - In the Dashboard select the option, “Create Resource”
 
@@ -53,25 +55,28 @@ It povides a very intuitive user interface, that helps users with different kind
 
 &nbsp;
 
-### Login with SSH into the server and follow the next steps:
+
+# External Deployment (AWS)
+
+See the deployment at: http://leantimeapp-aws.ddns.net/
+
+- Head to the EC2 Dashboard and click on the "Launch Instance" Button.
+
+![cloudi1](https://i.ibb.co/7G8fRqf/1.png)
+
+- Select "Ubuntu Server 18.04" 
+
+![cloudi2](https://i.ibb.co/L5xZNwD/2.png)
 
 
-- git pull the repository
-- cp .env.sample .env
-- deploying the project (docker-compose up -d)
+- Choose instance type and Click on "Review and Launch"
 
-![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
-
-- Verifying containers are running (docker ps):
-
-![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
+![cloudi3](https://i.ibb.co/dgpFYR9/3.png)
 
 
-# Arquitecture #
+- Check the instance status
 
-<p align="center">
-  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
-</p>
+![cloudi4](https://i.ibb.co/ctkH1zD/4.png)
 
 
 ### Configuring the Application ###
@@ -116,14 +121,30 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
 
-# Deployment (IBM)
+# Arquitecture #
 
-See the demo at: http://leantimeapp.ddns.net
+<p align="center">
+  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
+</p>
 
 
-# External Deployment (AWS)
 
-See the deployment at: http://leantimeapp-aws.ddns.net/
+### Login with SSH into the server and follow the next steps:
+
+
+- git pull the repository
+- cp .env.sample .env
+- deploying the project (docker-compose up -d)
+
+![wdeploy](https://i.ibb.co/dmdF335/deploy-2.png)
+
+- Verifying containers are running (docker ps):
+
+![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
+
+
+
+
 
 # License
 
