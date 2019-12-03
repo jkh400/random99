@@ -60,7 +60,7 @@ It povides a very intuitive user interface, that helps users with different kind
 
 See the deployment at: http://leantimeapp-aws.ddns.net/
 
-- Head to the EC2 Dashboard and click on the "Launch Instance" Button.
+- Head over to the EC2 Dashboard and click on the "Launch Instance" Button.
 
 ![cloudi1](https://i.ibb.co/7G8fRqf/1.png)
 
