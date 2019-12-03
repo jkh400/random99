@@ -23,6 +23,14 @@ It povides a very intuitive user interface, that helps users with different kind
 - Docker
 - Docker Compose
 
+
+# Arquitecture #
+
+<p align="center">
+  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
+</p>
+
+
 # Deployment (IBM)
 
   See the demo at: http://leantimeapp.ddns.net
@@ -94,6 +102,7 @@ See the deployment at: http://leantimeapp-aws.ddns.net/
 ![wdeploy](https://i.ibb.co/gmBtSRR/deploy-3.png)
 
 
+
 ### Configuring the Application ###
 
 
@@ -136,11 +145,7 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 <p align="center"><img src="https://i.ibb.co/YWWpT5X/welcome.png"></p>
 
 
-# Arquitecture #
 
-<p align="center">
-  <img width="700" height="400" src="https://i.ibb.co/2MNDXRg/Arquitecture.png">
-</p>
 
 
 
