@@ -49,6 +49,10 @@ It povides a very intuitive user interface, that helps users with different kind
 
 &nbsp;
 
+![cloud6](https://i.ibb.co/yXpSrzp/6.png)
+
+&nbsp;
+
 ### Login with SSH into the server and follow the next steps:
 
 
