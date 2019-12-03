@@ -38,17 +38,18 @@ It povides a very intuitive user interface, that helps users with different kind
 ![cloud3](https://i.ibb.co/7gD4pWD/3.png)
 
 - Select “Public” to allow  users the access the application.
-- Select the  location for the server deployment. 
-- Select the hardware profile thatyou need for the server.
+- Select the  location for the server deployment. 
+- Select the hardware profile that you need for the server.
 
 ![cloud5](https://i.ibb.co/S3sNFrc/4.png)
 
-- Select “Add Key” to add your key to the server, this way you will gainaccess to server to start the deployment procedure.
+- Select “Add Key” to add your key to the server, this way you will gain access to server to start the deployment procedure.
 
 ![cloud6](https://i.ibb.co/RHh28g4/5.png)
 
+&nbsp;
 
-- Login with SSH into the server and follow the next steps:
+# Login with SSH into the server and follow the next steps:
 
 
 - git pull the repository
