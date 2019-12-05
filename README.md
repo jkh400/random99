@@ -146,7 +146,11 @@ Once deploy, you can go to http://HOST_ADDRESS/install, so you can proceed with 
 
 
 
+# Leantime Repository
 
+Official Github Repository of Leantime:
+
+https://github.com/Leantime/leantime
 
 
 # License
